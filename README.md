@@ -3,3 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Discord.py](https://img.shields.io/badge/Discord.py-Bot-5865F2?logo=discord&logoColor=white)
 ![API](https://img.shields.io/badge/API-Connected-success?logo=fastapi)
+
+
+REALLY IMPORTANT !!!!!! 
+Create a .env file in the F1 bot folder with your bot token in the following format:DISCORD_TOKEN=YOUR_TOKEN_HERE
